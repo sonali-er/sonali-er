@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sonali-er
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on fab project
-- 📫 How to reach me sonalisaxena3112@gmail.com
+- 👋 Hi, I’m Sonali.
+- 💻 I thrive on creating seamless, end-to-end web solutions.
+- 🌱 Continuously learning and refining my skills across the stack.
+- 🚀 Looking to collaborate on innovative, impactful projects.
+- 📫 Reach out: sonalisaxena3112@gmail.com
 - 😄 Pronouns: she/her
-
 
 <!---
 sonali-er/sonali-er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
