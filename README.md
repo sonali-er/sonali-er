@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sonali.
+- 👋Hi, I'm Sonali! 🚀 Full Stack Developer.
 - 💻 I thrive on creating seamless, end-to-end web solutions.
 - 🌱 Continuously learning and refining my skills across the stack.
 - 🚀 Looking to collaborate on innovative, impactful projects.
